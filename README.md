@@ -1,0 +1,2 @@
+# testNodeJsAppOMK
+For the BlueMix
